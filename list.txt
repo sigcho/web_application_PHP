@@ -1,3 +1,0 @@
-<li><a href="http://localhost/PHP/aindex.php?id=1">나는 어떤 사람일까</a></li>
-<li><a href="http://localhost/PHP/aindex.php?id=2">상대는 어떤 사람일까</a></li>
-<li><a href="http://localhost/PHP/aindex.php?id=3">좋은 연애란 무엇일까</a></li>
